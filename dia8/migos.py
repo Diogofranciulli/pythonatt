@@ -14,3 +14,5 @@ def amigos(a,b):
         return False
 
 print(amigos(284, 220))
+
+print('oi')
