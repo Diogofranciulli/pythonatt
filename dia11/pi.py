@@ -5,4 +5,4 @@ def pi(loop):
     return d *4
 
 
-print(pi(100000))
+print(pi(1000000))

@@ -8,15 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia10/aula12.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia10/aula12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia10/desafio.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia10/desafio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia10/desafioMultDiv.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia10/desafioMultDiv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia10/desafioSomaSub.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia10/desafioSomaSub.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia10/empacotamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia10/empacotamento.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia10/empacotar2.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia10/empacotar2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia10/prin.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia10/prin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia10/soma.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia10/soma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia10/somaLista.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia10/somaLista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dia11/pi.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia11/pi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +48,7 @@
     "Python.empacotar2.executor": "Run",
     "Python.maquina.executor": "Run",
     "Python.numeros.executor": "Run",
+    "Python.pi.executor": "Run",
     "Python.prin.executor": "Run",
     "Python.somaLista.executor": "Run",
     "Python.tabuadav3.executor": "Run",
@@ -66,7 +59,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.desafio">
+  <component name="RunManager" selected="Python.pi">
     <configuration name="desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -89,28 +82,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="empacotamento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia10/empacotamento.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="empacotar2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -125,6 +96,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia10/empacotar2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia11/pi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pi" />
         <item itemvalue="Python.desafio" />
         <item itemvalue="Python.prin" />
         <item itemvalue="Python.somaLista" />
         <item itemvalue="Python.empacotar2" />
-        <item itemvalue="Python.empacotamento" />
       </list>
     </recent_temporary>
   </component>
