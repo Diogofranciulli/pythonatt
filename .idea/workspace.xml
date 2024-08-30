@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b710eab1-d4a2-4136-96c5-e42bd814230b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/exercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia12/exMatriz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/exercio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/exercio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/exercicio2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,29 +40,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.aula11.executor": "Run",
-    "Python.aula12.executor": "Run",
-    "Python.desafio.executor": "Run",
-    "Python.empacotamento.executor": "Run",
-    "Python.empacotar2.executor": "Run",
-    "Python.exercicio2.executor": "Run",
-    "Python.exercio1.executor": "Run",
-    "Python.maquina.executor": "Run",
-    "Python.numeros.executor": "Run",
-    "Python.pi.executor": "Run",
-    "Python.prin.executor": "Run",
-    "Python.somaLista.executor": "Run",
-    "Python.tabuadav3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/logonrmlocal/Documents/GitHub/python",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.aula11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.empacotamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.empacotar2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maquina.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.somaLista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tabuadav3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/logonrmlocal/Documents/GitHub/python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.exercicio2">
     <configuration name="desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
@@ -185,7 +187,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
