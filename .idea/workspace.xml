@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b710eab1-d4a2-4136-96c5-e42bd814230b" name="Changes" comment="" />
+    <list default="true" id="b710eab1-d4a2-4136-96c5-e42bd814230b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dia12/exFuncaoMatriz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia12/lerMatriz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +45,11 @@
     "Python.desafio.executor": "Run",
     "Python.empacotamento.executor": "Run",
     "Python.empacotar2.executor": "Run",
+    "Python.exFuncaoMatriz.executor": "Run",
     "Python.exMatriz.executor": "Run",
     "Python.exercicio2.executor": "Run",
     "Python.exercio1.executor": "Run",
+    "Python.lerMatriz.executor": "Run",
     "Python.maquina.executor": "Run",
     "Python.numeros.executor": "Run",
     "Python.pi.executor": "Run",
@@ -58,8 +64,8 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.exMatriz">
-    <configuration name="desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lerMatriz">
+    <configuration name="exFuncaoMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia10/desafio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia12/exFuncaoMatriz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lerMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia11/pi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia12/lerMatriz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lerMatriz" />
+        <item itemvalue="Python.exFuncaoMatriz" />
         <item itemvalue="Python.exMatriz" />
         <item itemvalue="Python.exercicio2" />
         <item itemvalue="Python.exercio1" />
-        <item itemvalue="Python.pi" />
-        <item itemvalue="Python.desafio" />
       </list>
     </recent_temporary>
   </component>
