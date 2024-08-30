@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b710eab1-d4a2-4136-96c5-e42bd814230b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dia12/exMatriz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/exercicio2.py" beforeDir="false" />
-    </list>
+    <list default="true" id="b710eab1-d4a2-4136-96c5-e42bd814230b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,30 +34,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.aula11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.empacotamento.executor&quot;: &quot;Run&quot;,
-    &quot;Python.empacotar2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercio1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maquina.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.somaLista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tabuadav3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/logonrmlocal/Documents/GitHub/python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.aula11.executor": "Run",
+    "Python.aula12.executor": "Run",
+    "Python.desafio.executor": "Run",
+    "Python.empacotamento.executor": "Run",
+    "Python.empacotar2.executor": "Run",
+    "Python.exMatriz.executor": "Run",
+    "Python.exercicio2.executor": "Run",
+    "Python.exercio1.executor": "Run",
+    "Python.maquina.executor": "Run",
+    "Python.numeros.executor": "Run",
+    "Python.pi.executor": "Run",
+    "Python.prin.executor": "Run",
+    "Python.somaLista.executor": "Run",
+    "Python.tabuadav3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/logonrmlocal/Documents/GitHub/python",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
-  <component name="RunManager" selected="Python.exercicio2">
+}]]></component>
+  <component name="RunManager" selected="Python.exMatriz">
     <configuration name="desafio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -78,6 +73,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia10/desafio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia12/exMatriz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,35 +169,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia10/prin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exMatriz" />
         <item itemvalue="Python.exercicio2" />
         <item itemvalue="Python.exercio1" />
         <item itemvalue="Python.pi" />
         <item itemvalue="Python.desafio" />
-        <item itemvalue="Python.prin" />
       </list>
     </recent_temporary>
   </component>
