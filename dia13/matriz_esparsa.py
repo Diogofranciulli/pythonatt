@@ -4,7 +4,6 @@ a = [
     [0,0,0,1,4]
 ]
 
-
 def esparsa(a):
     qtde = 0
     for i in a:
@@ -16,12 +15,3 @@ def esparsa(a):
     return False
 
 print(esparsa(a))
-
-
-
-
-
-
-
-
-

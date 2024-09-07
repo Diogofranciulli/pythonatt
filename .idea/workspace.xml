@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b710eab1-d4a2-4136-96c5-e42bd814230b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dia13/correcao_cp4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia13/variaveis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dia13/matriz_esparsa.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia13/matriz_esparsa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Python.exercio1.executor": "Run",
     "Python.lerMatriz.executor": "Run",
     "Python.maquina.executor": "Run",
+    "Python.matriz_esparsa.executor": "Run",
     "Python.numeros.executor": "Run",
     "Python.pi.executor": "Run",
     "Python.prin.executor": "Run",
@@ -65,7 +67,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.correcao_cp4">
+  <component name="RunManager" selected="Python.matriz_esparsa">
     <configuration name="correcao_cp4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -110,28 +112,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia12/exMatriz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="lerMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -146,6 +126,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia12/lerMatriz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matriz_esparsa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia13/matriz_esparsa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.matriz_esparsa" />
         <item itemvalue="Python.correcao_cp4" />
         <item itemvalue="Python.somaMatrizes" />
         <item itemvalue="Python.lerMatriz" />
         <item itemvalue="Python.exFuncaoMatriz" />
-        <item itemvalue="Python.exMatriz" />
       </list>
     </recent_temporary>
   </component>
