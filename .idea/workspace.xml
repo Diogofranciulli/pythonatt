@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b710eab1-d4a2-4136-96c5-e42bd814230b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dia12/somaMatrizes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia14/dicionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dia14/xadrez.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia14/xadrez.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.aula11.executor&quot;: &quot;Run&quot;,
@@ -65,6 +68,44 @@
 }</component>
   <component name="RunManager" selected="Python.somaMatrizes">
     <configuration name="exFuncaoMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.aula11.executor": "Run",
+    "Python.aula12.executor": "Run",
+    "Python.correcao_cp4.executor": "Run",
+    "Python.desafio.executor": "Run",
+    "Python.dicionario.executor": "Run",
+    "Python.empacotamento.executor": "Run",
+    "Python.empacotar2.executor": "Run",
+    "Python.exFuncaoMatriz.executor": "Run",
+    "Python.exMatriz.executor": "Run",
+    "Python.exercicio2.executor": "Run",
+    "Python.exercio1.executor": "Run",
+    "Python.lerMatriz.executor": "Run",
+    "Python.list_comprehensions.executor": "Run",
+    "Python.maquina.executor": "Run",
+    "Python.match_case.executor": "Run",
+    "Python.matriz_esparsa.executor": "Run",
+    "Python.matrizes.executor": "Run",
+    "Python.numeros.executor": "Run",
+    "Python.pi.executor": "Run",
+    "Python.prin.executor": "Run",
+    "Python.somaLista.executor": "Run",
+    "Python.somaMatrizes.executor": "Run",
+    "Python.tabuadav3.executor": "Run",
+    "Python.xadrez.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/logonrmlocal/Documents/GitHub/python",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.dicionario">
+    <configuration name="dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 36071d4aa0ae00357ca37d6c8d9761a94a332a34
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia12/exFuncaoMatriz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia14/dicionario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia12/exMatriz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia14/list_comprehensions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="match_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/exercicio2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia14/match_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lerMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matrizes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia12/lerMatriz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia14/matrizes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="somaMatrizes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="xadrez" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia12/somaMatrizes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia14/xadrez.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.somaMatrizes" />
-        <item itemvalue="Python.lerMatriz" />
-        <item itemvalue="Python.exFuncaoMatriz" />
-        <item itemvalue="Python.exMatriz" />
-        <item itemvalue="Python.exercicio2" />
+        <item itemvalue="Python.dicionario" />
+        <item itemvalue="Python.xadrez" />
+        <item itemvalue="Python.matrizes" />
+        <item itemvalue="Python.match_case" />
+        <item itemvalue="Python.list_comprehensions" />
       </list>
     </recent_temporary>
   </component>
