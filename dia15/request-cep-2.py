@@ -13,7 +13,7 @@ local = endereco.json()
 if local['complemento'] == '':
     print(f"Você mora na {local['logradouro']} {numero}, {local['bairro']} - {local['localidade']}, {local['estado']}")
 else:
-    print(f"Você mora na {local['logradouro']} {numero}, {local['bairro']} - {local['localidade']}, {local['estado']} (Complemento: {local["complemento"]})")
+    print(f"Você mora na {local['logradouro']} {numero}, {local['bairro']} - {local['localidade']}, {local['estado']} (Complemento: {local['complemento']})")
 
 print("-=" * 20)
 # Extraindo a string e um JSON (formato de dicionário)
