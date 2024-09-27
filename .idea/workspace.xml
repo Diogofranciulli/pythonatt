@@ -36,33 +36,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.aula11.executor": "Run",
-    "Python.aula12.executor": "Run",
-    "Python.desafio.executor": "Run",
-    "Python.empacotamento.executor": "Run",
-    "Python.empacotar2.executor": "Run",
-    "Python.exFuncaoMatriz.executor": "Run",
-    "Python.exMatriz.executor": "Run",
-    "Python.exercicio2.executor": "Run",
-    "Python.exercio1.executor": "Run",
-    "Python.lerMatriz.executor": "Run",
-    "Python.maquina.executor": "Run",
-    "Python.numeros.executor": "Run",
-    "Python.pi.executor": "Run",
-    "Python.prin.executor": "Run",
-    "Python.somaLista.executor": "Run",
-    "Python.somaMatrizes.executor": "Run",
-    "Python.tabuadav3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/logonrmlocal/Documents/GitHub/python",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.aula11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.empacotamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.empacotar2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exFuncaoMatriz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exMatriz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lerMatriz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maquina.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.somaLista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.somaMatrizes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tabuadav3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/logonrmlocal/Documents/GitHub/python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.somaMatrizes">
     <configuration name="exFuncaoMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
